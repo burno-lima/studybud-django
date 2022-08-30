@@ -1,5 +1,7 @@
 # studybud-django
 
+![img](https://user-images.githubusercontent.com/80166382/187489574-4e4257a8-4290-49ff-8b0d-ac063d49bf30.png)
+
 Installation
 
 - First clone the project.
